@@ -17,9 +17,7 @@ export default class RecoverPassword{
                       <label for="inputPassword4" class="form-label text-white">Enter New Password</label>
                       <input type="password" class="form-control" id="inputPassword"/>
                    </div>
-
-
-                   <div className="col-md-6">
+                   <div className="col-md-12">
                       <label for="inputConfirmPassword4" class="form-label text-white">Confirm New Password</label>
                       <input type="confirmpassword" class="form-control" id="inputConfirmPassword"/>
                    </div>
